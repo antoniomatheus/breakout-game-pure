@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+collisionDetection	index.html	/^      function collisionDetection() {$/;"	f
+draw	index.html	/^      function draw() {$/;"	f
+drawBall	index.html	/^      function drawBall() {$/;"	f
+drawBricks	index.html	/^      function drawBricks() {$/;"	f
+drawLives	index.html	/^      function drawLives() {$/;"	f
+drawPaddle	index.html	/^      function drawPaddle() {$/;"	f
+drawScore	index.html	/^      function drawScore() {$/;"	f
+keyDownHandler	index.html	/^      function keyDownHandler(e) {$/;"	f
+keyUpHandler	index.html	/^      function keyUpHandler(e) {$/;"	f
+mouseMoveHandler	index.html	/^      function mouseMoveHandler(e) {$/;"	f
